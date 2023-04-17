@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ito Ru</h1>
+<h1 align="center">Hi, I'm Ito Ru</h1>
 <h3 align="center">A Japanese novice engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbit0624&label=Profile%20views&color=0e75b6&style=flat" alt="rabbit0624" /> </p>
