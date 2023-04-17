@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/rabbit0624/posts.svg)](http://qiita.com/rabbit0624)
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=rabbit0624&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/rabbit0624/)
 
