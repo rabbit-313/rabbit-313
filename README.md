@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Ito Ru</h1>
 <h3 align="center">A Japanese novice engineer</h3>
 
+<p align="left">[![My Qiita posts](https://qiita-badge.apiapi.app/s/rabbit0624/posts.svg)](http://qiita.com/rabbit0624) </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbit0624&label=Profile%20views&color=0e75b6&style=flat" alt="rabbit0624" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbit0624" alt="rabbit0624" /></a> </p>
