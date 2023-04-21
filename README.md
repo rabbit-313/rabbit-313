@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ito Ru</h1>
+<h1 align="center">Ito Ru</h1>
 <h3 align="center">A Japanese novice engineer</h3>
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rabbit0624/posts.svg)](http://qiita.com/rabbit0624)
