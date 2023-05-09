@@ -1,5 +1,4 @@
 <h1 align="center">Ito Ru</h1>
-<h3 align="center">A Japanese novice engineer</h3>
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/rabbit0624/posts.svg)](http://qiita.com/rabbit0624)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbit0624&label=Profile%20views&color=0e75b6&style=flat" alt="rabbit0624" /> </p>
