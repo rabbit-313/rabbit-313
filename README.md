@@ -10,7 +10,7 @@ I am a machine learning engineer with expertise in super-resolution and recommen
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=rabbit-313" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/tsuki-lab/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rabbit-313&margin-w=5)](https://github.com/rabbit-313/)
 
 ## 📨 Contact me.
 [Kaggle](https://www.kaggle.com/rabbitx86)  |  [X](https://x.com/rabbit_x86)  |  [Qiita](https://qiita.com/rabbit-313)
